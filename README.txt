@@ -9,3 +9,6 @@ Command line argument -jt 6 to use Raspberry Pi GPIO as a joystick.
 
 When in a game, press the tab key on a keyboard. Configure the 'Input (general)', for 'User Interface', 'Other Controls' and 'Player 1 Controls'.
 
+For full details of the Raspberry Pi MAME GPIO project see:
+http://www.newsdownload.co.uk/pages/RPiMameGpioJoystick.html
+
